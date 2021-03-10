@@ -4,3 +4,4 @@ Git is free software distributed under the GPL.
 new line
 ok5
 6
+7
